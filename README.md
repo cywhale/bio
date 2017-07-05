@@ -55,6 +55,10 @@ ________________________________________________________________________________
 
 * 2008	Master dissertation scholarship of Chung Hwa Rotary Educational Foundation 2008-2009
 
+**Publications**
+
+* Weng C-Y, Yang K-C, Hsieh C-F, et al (2017) Local neighborhood communities in the understory play a critical role by affecting regeneration niches and subsequent community assembly in a montane cloud forest. Ecol Res. <a href="https://link.springer.com/article/10.1007/s11284-017-1475-y">doi: 10.1007/s11284-017-1475-y</a>
+
 **Conference presentations**
 
 * Weng, C. Y., M. H. Su (2014) Spatially structured habitats for tree regeneration affected by topography and neighborhood communities in a montane cloud forest, Taiwan. 61st Annual Meeting of Ecological Society of Japan (ESJ61).
