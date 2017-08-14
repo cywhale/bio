@@ -2,7 +2,7 @@
 
 #### Chi-yu Weng
 
-* Institute of Ecology and Evolutionary Biology, National Taiwan University, 
+* Ocean Data Bank, Institute of Oceanography, National Taiwan University, 
 * No. 1, Sec. 4, Roosevelt Rd. Taipei, 10617, Taiwan
 
 **cyrain at gmail dot com**
@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 **Appointment** 
 
-* 2015-2016 	Bio-Technician for Ocean Data Bank, Institute of Oceanography, NTU
+* 2015-present 	Bio-Technician for Ocean Data Bank, Institute of Oceanography, NTU
 
 * 2014-2015 	Project coordinator for Genomics Research Center, Academia Sinica
 
@@ -24,15 +24,17 @@ ________________________________________________________________________________
 
 **Education**	
 
-* 2014-present	Ph.D. candidate (Ecology and Evolutionary Biology), National Taiwan University, Taiwan
+* Ph.D., Ecology and Evolutionary Biology. National Taiwan University, Taiwan
+  * ###### Research areas: Community ecology; Forest ecology
+  * ###### Dissertation: Spatiotemporal dynamics of seed rain and seedling in a montane cloud forest, Taiwan.
 
-* 2011-2014	Ph.D. student (Ecology and Evolutionary Biology), National Taiwan University, Taiwan
+* Master of Science, Ecology. Providence University, Taiwan
+  * ###### Thesis: The dynamics of leaf litter and phenological patterns in the forest dynamics plot at upstream basin of Nantzuhsienhsi in middle elevation of Taiwan.
 
-* 2007-2009	M.Sc. (Ecology), Providence University, Taiwan
+* Master of Science, Ecology. Providence University, Taiwan
+  * ###### Thesis: The dynamics of leaf litter and phenological patterns in the forest dynamics plot at upstream basin of Nantzuhsienhsi in middle elevation of Taiwan.
 
-* 1996-1998	M.Sc. (Electrical engineering), National Taiwan University, Taiwan
-
-* 1992-1995	B.Sc. (Electrical engineering), National Taiwan University, Taiwan
+* Bachelor of Science, Electrical engineering. National Taiwan University, Taiwan
 
 **Projects**
 
@@ -70,8 +72,12 @@ ________________________________________________________________________________
 
 * Weng, C. Y., K. C. Yang (2009) Taxonomic key to leaf litterfall in  Nanhsi forest dynamics plot in middle elevation, Taiwan (poster). 2009 Annual Conference of TSPS & Symposium on Plant Biodiversity and Systematics.
 
-**Thesis**
+**Other publications and reports**
 
-* Weng, C. Y. (2009) The dynamics of leaf litter and phenological patterns in the forest dynamics plot at upstream basin of Nantzuhsienhsi in middle elevation of Taiwan. Providence University.
+* 科技部海洋學門資料庫105年海洋資料圖集報告（生物海洋部分）（技術報告）
+* 玉山國家公園楠梓仙溪林道地區動植物資源監測調查計畫 2009 – 2010.
+* 台灣本島森林動態樣區種子雨及喬木小苗監測計畫2010 – 2013（林務局）
+* 赤楊金花蟲（Linaeidea formosana）對台灣赤楊（Alnus formosana）葉子物候影響初步研究 / 玉山國家公園97年保育研究成果
+* 楠溪森林動態樣區凋落物之研究簡介 / 生態台灣季刊  23期(2009/04)
+* 森林大滅絕（書籍）（責任編輯）
 
-* Weng, C. Y. (1998) Implementation of an IF/Baseband Module for Wireless LAN. NTU
