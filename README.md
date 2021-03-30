@@ -31,7 +31,7 @@ ________________________________________________________________________________
 * Master of Science, Ecology. Providence University, Taiwan
   * ###### Thesis: The dynamics of leaf litter and phenological patterns in the forest dynamics plot at upstream basin of Nantzuhsienhsi in middle elevation of Taiwan.
 
-* Master of Electrical Engineering. National Taiwan University, Taiwan
+* Master of Science, Electrical Engineering. National Taiwan University, Taiwan
   * ###### Thesis: Implementation of an IF/Baseband Module for Wireless LAN.
 
 * Bachelor of Science, Electrical engineering. National Taiwan University, Taiwan
