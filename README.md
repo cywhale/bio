@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 **Publications**
 
-* Weng, C-Y, C. Hsieh, and M. Su. 2017. Recruitment dynamics mediated by ungulate herbivory can affect species coexistence for tree seedling assemblages. Taiwania 62: 283–293. <a href="http://tai2.ntu.edu.tw/taiwania/abstract.php?type=abstract&id=1512">doi: 10.6165/tai.2017.62.283</a>
+* Weng, C-Y, C. Hsieh, and M. Su. 2017. Recruitment dynamics mediated by ungulate herbivory can affect species coexistence for tree seedling assemblages. Taiwania 62: 283–293. <a href="https://taiwania.ntu.edu.tw/abstract/1512">doi: 10.6165/tai.2017.62.283</a>
 * Weng C-Y, Yang K-C, Hsieh C-F, et al (2017) Local neighborhood communities in the understory play a critical role by affecting regeneration niches and subsequent community assembly in a montane cloud forest. Ecol Res. <a href="https://link.springer.com/article/10.1007/s11284-017-1475-y">doi: 10.1007/s11284-017-1475-y</a>
 
 **Conference presentations**
